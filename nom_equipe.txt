@@ -1,0 +1,15 @@
+Nom base de données d'équipe (Projet 1): 
+
+ID : B56Projet1MJ
+Nom BD : BDB56Projet1MJ
+Mot de passe : Projet1BD
+
+tcp:424sql.cgodin.qc.ca,5433
+
+Main Admin user in BD:
+BobLaroute
+Password1
+
+Main Préposé in BD:
+RogDeschamps
+Password1
